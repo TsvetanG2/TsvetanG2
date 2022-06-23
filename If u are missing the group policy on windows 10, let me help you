@@ -1,5 +1,5 @@
 Open any folder in C:/Users/Downloads for example.
-Create a text file and copy and run the code:
+Create a text file and put:
 
 @echo off
 pushd "%~dp0"
