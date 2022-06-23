@@ -1,5 +1,5 @@
 Open any folder in C:/Users/Downloads for example.
-Create a text file and put:
+Create a text file and copy and run the code:
 
 @echo off
 pushd "%~dp0"
@@ -15,4 +15,4 @@ Close it,
 Run it as administrator and wait until the processes are done.
 
 Congratulations, you have the Windows Group Policy on your device
-Copy and run the code.
+
