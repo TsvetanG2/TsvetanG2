@@ -1,8 +1,7 @@
 
-<img align="center" width="1100" src="https://user-images.githubusercontent.com/106432651/175832654-cd384d5b-d31d-404c-985a-52571095a53a.jpg"/>
+<img align="center" width="1100" src="https://user-images.githubusercontent.com/106432651/175833076-19215893-1466-4ecc-be72-39ff5364cfd6.jpg"/>
+
 <h2></h2>
-
-
 
 <img align = "right" width = "50%" src ="https://github-readme-stats.vercel.app/api?username=Tsvetan&theme=react&show_icons=true"/>
 
