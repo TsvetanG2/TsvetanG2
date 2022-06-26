@@ -10,7 +10,7 @@
   
   👨‍💻 All of my projects are available at[https://github.com/TsvetanG2/My-Projects](https://github.com/TsvetanG2/My-Projects)
   
-  📫 How to reach me **tsvetangerginovv@gmail.com / t.gerginov@yahoo.com**
+  📫 How to reach me: <style="color:yellow" **tsvetangerginovv@gmail.com / t.gerginov@yahoo.com**>
   
   ⚡ Fun fact **Gym-rat**</h2>
 
