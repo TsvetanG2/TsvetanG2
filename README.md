@@ -1,6 +1,7 @@
-<h1 align="center">Tsvetan Gerginov's page🎓</h1>
+
 <img align="center" src="https://adigitalguru.com/wp-content/uploads/2019/11/banner-web-development.png"/>
 <h2></h2>
+
 
 <img align = "right" width = "50%" src ="https://github-readme-stats.vercel.app/api?username=Tsvetan&theme=react&show_icons=true"/>
 
