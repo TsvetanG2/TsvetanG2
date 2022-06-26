@@ -8,13 +8,13 @@
 <p align="center" width = "50">
   💎 I’m currently working on <strong>MySelf</strong></p>
 <p align="center" width = "50">
-  💎 I’m currently learning <strong>C# Fundamentals in <a href="https://softuni.bg/">[SoftUni]</strong></a></p>
+  💎 I’m currently learning <strong>C# Fundamentals in <a href="https://softuni.bg/">SoftUni</strong></a></p>
 <p align="center" width = "50">  
-  💎 All of my projects are available at <a href="https://github.com/TsvetanG2/My-Projects"><strong>[Project]</strong></a>
+  💎 All of my projects are available at <a href="https://github.com/TsvetanG2/My-Projects"><strong>Project</strong></a>
 <p align="center" width = "50">  
   💎 How to reach me: <strong>t.gerginov@yahoo.com</strong></p>
 <p align="center" width = "50">   
-  💎 Fun fact: <strong>Gym-rat</strong></p>
+  💎 Fun fact: <strong><a href ="https://media.istockphoto.com/photos/rendering-of-a-cartoon-mouse-doing-a-workout-with-a-barbell-picture-id1130349933?k=20&m=1130349933&s=612x612&w=0&h=qAGWnLyTa6sEOxmt3XQCeUCcoF54bCzYoUsEne0nqSA=">Gym-rat</strong></a></p>
 
 
 <h2></h2>
