@@ -2,13 +2,13 @@
 <h3 align="center">🌎<strong>A passionate, self-motivated student from Sofia,Bulgaria</strong>🌎</h3>
 <img align="center" src="https://adigitalguru.com/wp-content/uploads/2019/11/banner-web-development.png"/>
   
-<p style = color:yellow>  🔭 I’m currently working on <strong>MySelf</strong>
+<p style = "color:yellow">  🔭 I’m currently working on <strong>MySelf</strong>
   
   🌱 I’m currently learning <strong>**C# Fundamentals in SoftUni**</strong>
   
   👨‍💻 All of my projects are available at[https://github.com/TsvetanG2/My-Projects](https://github.com/TsvetanG2/My-Projects)
   
-  📫 How to reach me: <style="color:yellow" **tsvetangerginovv@gmail.com / t.gerginov@yahoo.com**>
+  📫 How to reach me:**tsvetangerginovv@gmail.com / t.gerginov@yahoo.com**
   
   ⚡ Fun fact:  **Gym-rat** </p>
 
