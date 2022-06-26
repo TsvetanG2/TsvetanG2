@@ -1,6 +1,6 @@
 <h1 align="center">👾Heya Im Teto!👾</h1>
 <h3 align="center">A passionate, self-motivated student from Sofia,Bulgaria</h3>
-<a href="https://www.youtube.com/codingpotter"><img align="center" src="[https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/images/back.png](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)"/></a>
+<a href="https://www.youtube.com/codingpotter"><img align="center" src="https://www.vecteezy.com/vector-art/344502-web-development-banner-computer-with-window-a-computer-with-a-browser-window-studying-different-programming-languages-vector-flat-line-ilustration"/></a>
 <img align="right" alt="Coding" width"300" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsvetang2&label=Profile%20views&color=0e75b6&style=flat" alt="tsvetang2" /> </p>
