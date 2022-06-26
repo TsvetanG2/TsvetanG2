@@ -3,7 +3,7 @@
 
 <h2></h2>
 
-<img align = "right" width = "50%" src ="https://github-readme-stats.vercel.app/api?username=Tsvetan&theme=react&show_icons=true"/>
+<img align = "right" width = "50%" src ="https://github-readme-stats.vercel.app/api?username=TsvetanG2&theme=react&show_icons=true"/>
 
 
 <p align="center" width = "50">
