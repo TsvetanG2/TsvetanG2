@@ -8,9 +8,9 @@
 <p align="center" width = "50">
   💎 I’m currently working on <strong>MySelf</strong></p>
 <p align="center" width = "50">
-  💎 I’m currently learning <strong>C# Fundamentals in SoftUni</strong></p>
+  💎 I’m currently learning <strong>C# Fundamentals in <a href="https://softuni.bg/">[SoftUni]</strong></a></p>
 <p align="center" width = "50">  
-  💎 All of my projects are available at <a><strong>Project <src = "https://github.com/TsvetanG2/My-Projects](https://github.com/TsvetanG2/My-Projects"</strong></p></a>
+  💎 All of my projects are available at <a href="https://github.com/TsvetanG2/My-Projects"><strong>[Project]</strong></a>
 <p align="center" width = "50">  
   💎 How to reach me: <strong>t.gerginov@yahoo.com</strong></p>
 <p align="center" width = "50">   
