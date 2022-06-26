@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tsvetan Gerginov</h1>
+<h1 align="center">👾Heya Im Teto!👾</h1>
 <h3 align="center">A passionate, self-motivated student from Sofia,Bulgaria</h3>
-<img align="right" alt="Coding" width"400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+<img align="top" alt="Banner" width"2000" src"https://thumbs.dreamstime.com/b/web-development-concept-web-site-coding-full-stack-programing-web-security-usability-platform-testing-web-developer-209521403.jpg">
+<img align="right" alt="Coding" width"300" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsvetang2&label=Profile%20views&color=0e75b6&style=flat" alt="tsvetang2" /> </p>
 
