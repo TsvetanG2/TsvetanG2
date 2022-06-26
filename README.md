@@ -1,6 +1,7 @@
 
-<img align="center" src="https://adigitalguru.com/wp-content/uploads/2019/11/banner-web-development.png"/>
+<img align="center" width="1100" src="https://user-images.githubusercontent.com/106432651/175832654-cd384d5b-d31d-404c-985a-52571095a53a.jpg"/>
 <h2></h2>
+
 
 
 <img align = "right" width = "50%" src ="https://github-readme-stats.vercel.app/api?username=Tsvetan&theme=react&show_icons=true"/>
