@@ -7,7 +7,7 @@
 
 
 <p align="center" width = "50">
-  💎 I’m currently working on <strong>MySelf</strong></p>
+  💎 I’m currently working on <strong>my Career</strong></p>
 <p align="center" width = "50">
   💎 I’m currently learning <strong>C# Fundamentals in <a href="https://softuni.bg/">SoftUni</strong></a></p>
 <p align="center" width = "50">  
