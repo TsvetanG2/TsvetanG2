@@ -9,7 +9,7 @@
 <p align="center" width = "50">
   💎 I’m currently working on <strong>my Career</strong></p>
 <p align="center" width = "50">
-  💎 I’m currently learning <strong>C# Fundamentals in <a href="https://softuni.bg/">SoftUni</strong></a></p>
+  💎 I’m currently studying <strong>C# Fundamentals in <a href="https://softuni.bg/">SoftUni</strong></a></p>
 <p align="center" width = "50">  
   💎 All of my projects are available at <a href="https://github.com/TsvetanG2/My-Projects"><strong>Project</strong></a>
 <p align="center" width = "50">  
