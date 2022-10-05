@@ -1,5 +1,5 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=TsvetanG2"/>
-<img align="center" width="1100" src="https://user-images.githubusercontent.com/106432651/175833076-19215893-1466-4ecc-be72-39ff5364cfd6.jpg"/>
+<img align="center" width="1100" src="https://www.iphones.ru/wp-content/uploads/2022/04/github-cover2332.jpg"/>
 
 <h2></h2>
 
