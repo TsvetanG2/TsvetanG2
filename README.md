@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=TsvetanG2"/>
 <img align="center" width="1100" src="https://www.iphones.ru/wp-content/uploads/2022/04/github-cover2332.jpg"/>
 
-<h2></h2>
+<h2><meta name="google-site-verification" content="VTH_x9ruWuOVlL1WlUmgKizdwzqkjCZQCtYypiFl1P4" /></h2>
 
 <img align = "right" width = "50%" src ="https://github-readme-stats.vercel.app/api?username=TsvetanG2&theme=react&show_icons=true"/>
 
