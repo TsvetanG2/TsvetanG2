@@ -7,7 +7,7 @@
 
 
 <p align="center" width = "50">
-  💎 I’m currently working on <strong>my Career</strong></p>
+  💎 I’m currently working on <strong>in HCL Technologies & Organon</strong></p>
 <p align="center" width = "50">
   💎 I’m currently studying <strong>Python in <a href="https://softuni.bg/">SoftUni</strong></a></p>
 <p align="center" width = "50">  
