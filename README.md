@@ -11,7 +11,7 @@
 <p align="center" width = "50">
   💎 I’m currently studying <strong>Python in <a href="https://softuni.bg/">SoftUni</strong></a></p>
 <p align="center" width = "50">  
-  💎 Check out my recent project at <a href="https://lnkd.in/gAMMejUx"><strong></strong></a>
+  💎 Check out my recent project at <a href="https://github.com/TsvetanG2/Weather-Application"><strong></strong></a>
 <p align="center" width = "50">  
   💎 How to reach me: <strong>t.gerginov@yahoo.com</strong></p>
 <p align="center" width = "50">   
