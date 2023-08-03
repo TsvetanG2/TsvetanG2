@@ -1,5 +1,4 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=TsvetanG2"/>
-<img align="center" width="1100" src="https://www.iphones.ru/wp-content/uploads/2022/04/github-cover2332.jpg"/>
 
 <h2><meta name="google-site-verification" content="VTH_x9ruWuOVlL1WlUmgKizdwzqkjCZQCtYypiFl1P4" /></h2>
 
