@@ -6,15 +6,15 @@
 
 
 <p align="center" width = "50">
-  💎 I’m currently working <strong>in HCL Technologies & Organon</strong></p>
+  👨‍💻 I’m currently working <strong>in HCL Technologies & Organon</strong></p>
 <p align="center" width = "50">
-  💎 I’m currently studying <strong>Python in <a href="https://softuni.bg/">SoftUni</strong></a></p>
+  🧑‍💻 I’m currently studying <strong>Python in <a href="https://softuni.bg/">SoftUni</strong></a></p>
 <p align="center" width = "50">  
-  💎 Check out my recent project at <a href="https://github.com/TsvetanG2/Weather-Application"><strong>Weather_Application</strong></a>
+  ⚙️ Check out my recent project at <a href="https://github.com/TsvetanG2/Weather-Application"><strong>Weather_Application</strong></a>
 <p align="center" width = "50">  
-  💎 How to reach me: <strong>t.gerginov@yahoo.com</strong></p>
+  📧 How to reach me: <strong>t.gerginov@yahoo.com</strong></p>
 <p align="center" width = "50">   
-  💎 Fun fact: <strong><a href ="https://media.istockphoto.com/photos/rendering-of-a-cartoon-mouse-doing-a-workout-with-a-barbell-picture-id1130349933?k=20&m=1130349933&s=612x612&w=0&h=qAGWnLyTa6sEOxmt3XQCeUCcoF54bCzYoUsEne0nqSA=">Gym-rat</strong></a></p>
+  😛 Fun fact: <strong><a href ="https://media.istockphoto.com/photos/rendering-of-a-cartoon-mouse-doing-a-workout-with-a-barbell-picture-id1130349933?k=20&m=1130349933&s=612x612&w=0&h=qAGWnLyTa6sEOxmt3XQCeUCcoF54bCzYoUsEne0nqSA=">Gym-rat</strong></a></p>
 
 
 <h2></h2>
