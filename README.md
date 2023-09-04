@@ -2,7 +2,7 @@
 
 <h2><meta name="google-site-verification" content="VTH_x9ruWuOVlL1WlUmgKizdwzqkjCZQCtYypiFl1P4" /></h2>
 
-<img align = "right" width = "50%" src ="https://github-readme-stats.vercel.app/api?username=TsvetanG2&show_icons=true&theme=radical"/>
+<img align = "right" width = "50%" src ="https://github-readme-stats.vercel.app/api?username=TsvetanG2&show_icons=true&theme=dark"/>
 
 
 <p align="center" width = "50">
