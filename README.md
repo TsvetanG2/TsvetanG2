@@ -25,7 +25,6 @@
 <a href="https://www.linkedin.com/in/tsvetan-gerginov-532931220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsvetan (teto) gerginov" height="30" width="40" /></a>
 <a href="https://fb.com/цветан гергинов" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="цветан гергинов" height="30" width="40" /></a>
 <a href="https://instagram.com/cecog02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cecog02" height="30" width="40" /></a>
-<a href="https://discord.gg/TsvetanG2#9564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TsvetanG2#9564" height="30" width="40" /></a>
 </p>
 
 
