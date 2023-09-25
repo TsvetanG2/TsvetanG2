@@ -21,7 +21,7 @@
 
 <h3 align="center" width="100">Connect with me:</h3>
 <p align="center" width="100">
-<a href="https://twitter.com/tetocg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tetocg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/t_gerginov" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP._b7sog9ef6w9KiMGkceXgAHaHa?pid=ImgDet&rs=1" alt="t_gerginov" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tsvetan-gerginov-532931220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsvetan (teto) gerginov" height="30" width="40" /></a>
 <a href="https://fb.com/цветан гергинов" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="цветан гергинов" height="30" width="40" /></a>
 <a href="https://www.upwork.com/freelancers/~01bfbeac6eea0aae79" target="blank"><img align="center" src="https://th.bing.com/th/id/R.ebdabc95d3fed294d5f787c7c3a0d7a2?rik=cxKOGnxCCHu%2bzw&pid=ImgRaw&r=0" alt="Tsvetan Gerginov" height="30" width="40" /></a>
