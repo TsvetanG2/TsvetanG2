@@ -1,4 +1,4 @@
-# 🦁 Tsvetan Gerginov
+# 🦁 Tsvetan Gerginov (Teto)
 **`Digital Craftsman (Developer/Software Engineer/Student)`**
 
 <strong>I'm a Software Engineering Student with a passion for coding and developing, building my own version of the digital world one step at a time. All coding projects are built from the ground up, with passion and planning on solving a real-time issues
@@ -22,6 +22,17 @@ You can contact me via LinkedIn for a collab or just a chat: [LinkedIn](https://
 
 #
 
+### 🌍 Social Links and More
+
+<img align="left" alt="LinkedIn" width="60px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.c7462d0c09a55629af687b4052f5239e?rik=hScNFt8bc070nw&pid=ImgRaw&r=0" />
+<img align="left" alt="LeetCode" width="35px" style="padding-right:10px;" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/LeetCode_logo_black.png" />
+<img align="left" alt="HackerRank" width="35px" style="padding-right:10px;" src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" />
+<img align="left" alt="UpwWork" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/upwork-icon-2048x2026-9a7nwqtz.png" />
+<br />
+
+
+#
+
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsvetanG2&show_icons=true&theme=highcontrast)
@@ -36,3 +47,7 @@ You can contact me via LinkedIn for a collab or just a chat: [LinkedIn](https://
 
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
+
+#
+
+
