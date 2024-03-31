@@ -1,8 +1,7 @@
 # 🦁 Tsvetan Gerginov (Teto)
 **`Digital Craftsman (Developer/Software Engineer/Student)`**
 
-<strong>I'm a Software Engineering Student with a passion for coding and developing, building my own version of the digital world one step at a time. All coding projects are built from the ground up, with passion and planning on solving a real-time issues
-You can contact me via LinkedIn for a collab or just a chat: [LinkedIn](https://www.linkedin.com/in/tsvetan-gerginov212/). 😁</strong>
+<strong>I'm a Software Engineering Student with a passion for coding and developing, building my own version of the digital world one step at a time. All coding projects are built from the ground up, with passion and planning on solving a real-time issues</strong>
 
    <p align="left">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TsvetanG2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
