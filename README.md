@@ -6,7 +6,7 @@
 
 
 <p align="center" width = "50">
-  📺 I’m currently working <strong>in HCL Technologies & Organon</strong></p>
+  📺 View My Latest Project:<strong><a href="https://github.com/TsvetanG2/PdfToExcelConverter"> PDF To Excel Converter </strong></a> </p>
 <p align="center" width = "50">
   📺 I’m currently studying <strong>Python in <a href="https://softuni.bg/">SoftUni</strong></a></p>
 <p align="center" width = "50">   
