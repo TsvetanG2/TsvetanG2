@@ -28,10 +28,10 @@ You can contact me via LinkedIn for a collab or just a chat: [LinkedIn](https://
    <img align="left" alt="LinkedIn" width="60px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.c7462d0c09a55629af687b4052f5239e?rik=hScNFt8bc070nw&pid=ImgRaw&r=0" />
 </a>
 <a href="https://leetcode.com/TsvetanG2/">
-   <img align="left" alt="LeetCode" width="35px" style="padding-right:10px;" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/LeetCode_logo_black.png" />
+   <img align="left" alt="LeetCode" width="40px" style="padding-right:10px;" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/LeetCode_logo_black.png" />
 </a>
 <a href="https://www.hackerrank.com/profile/t_gerginov">
-   <img align="left" alt="HackerRank" width="35px" style="padding-right:10px;" src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" />
+   <img align="left" alt="HackerRank" width="40px" style="padding-right:10px;" src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" />
 </a>
 <a href="https://www.upwork.com/freelancers/~01e15c7d4ce2cbd73f">
    <img align="left" alt="UpwWork" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/upwork-icon-2048x2026-9a7nwqtz.png" />
