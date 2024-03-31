@@ -42,9 +42,9 @@
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsvetanG2&show_icons=true&theme=highcontrast)
+![Tsvetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsvetanG2&show_icons=true&theme=highcontrast)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=TsvetanG2&theme=gruvbox&border_radius=4.5) -->
 
 #
 
@@ -52,9 +52,14 @@
  <summary><h3>👨‍💻 My Coding Journey </h3></summary>
   <strong>I started my coding journey as a naive Software Engineering student with a passion to learn everything I could about this programming world. As a Software Engineering student with an unwavering passion for the craft, I dive headfirst into the realm of coding, algorithms, and problem-solving. Every line of code I write feels like a stroke of creativity, an opportunity to bring ideas to life through technology. From designing sleek user interfaces to architecting robust backend systems, I thrive on the challenge of crafting elegant solutions to complex problems. With each project, I not only sharpen my technical skills but also embrace the iterative nature of software development, constantly learning and refining my approach. Software engineering isn't just a field of study for me—it's a lifelong journey fueled by curiosity, innovation, and a boundless enthusiasm for building the future, one line of code at a time.</strong></details>
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+#
+
+<details>
+ <summary><h3>👨‍💻 Latest Projects </h3></summary>
+[PDF TO EXCEL CONVERTER]
+</details>
 
 #
+
 
 
