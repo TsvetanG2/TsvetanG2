@@ -1,36 +1,38 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=TsvetanG2"/>
+# 🦁 Tsvetan Gerginov
+**`Digital Craftsman (Developer/Software Engineer/Student)`**
 
-<h2><meta name="google-site-verification" content="VTH_x9ruWuOVlL1WlUmgKizdwzqkjCZQCtYypiFl1P4" /></h2>
+<strong>I'm a Software Engineering Student with a passion for coding and developing, building my own version of the digital world one step at a time. All coding projects are built from the ground up, with passion and planning on solving a real-time issues
+You can contact me via LinkedIn for a collab or just a chat: [LinkedIn](https://www.linkedin.com/in/tsvetan-gerginov212/). 😁</strong>
 
-<img align = "right" width = "40%" src ="https://github-readme-stats.vercel.app/api?username=TsvetanG2&show_icons=true&theme=dark"/>
+   <p align="left">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TsvetanG2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/TsvetanG2?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TsvetanG2?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
+   ### 📔 Languages and Tools
 
-<p align="center" width = "50">
-  📺 View My Latest Project:<strong><a href="https://github.com/TsvetanG2/PdfToExcelConverter"> PDF To Excel Converter </strong></a> </p>
-<p align="center" width = "50">
-  📺 I’m studying <strong>Software Engineering With Python in <a href="https://softuni.bg/">SoftUni</strong></a></p>
-<p align="center" width = "50">   
-  📺 How to reach me: <strong>t.gerginov@yahoo.com</strong></p>
-<p align="center" width = "50">   
-  📺 Fun fact: <strong><a href="https://media.istockphoto.com/photos/rendering-of-a-cartoon-mouse-doing-a-workout-with-a-barbell-picture-id1130349933?k=20&m=1130349933&s=612x612&w=0&h=qAGWnLyTa6sEOxmt3XQCeUCcoF54bCzYoUsEne0nqSA=">Gym-rat</strong></a></p>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
 
+#
 
-<h2></h2>
-<h3 align="center" width="90">Languages and Tools:</h3>
-<p align="center" width="90" ><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://www.pinclipart.com/picdir/big/124-1248748_c-sharp-logo-png.png" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/programming-2/24/css-3-256.png" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://clipground.com/images/html-png-9.png" alt="html5" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://mananmohnot.github.io/img/about-logos/logo-python.png" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/postgresql/index.php" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/postgresql-inc-logo-png-transparent.png" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://tapoueh.org/img/old/sql-logo.png" alt="SQL" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/git/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/free-social-media-icons-1/200/1469470492_Git-512.png" alt="GIT" width="40" height="40"/> </a> <a href="https://www.bing.com/ck/a?!&&p=63d5be7e1dca10abJmltdHM9MTY5NjQ2NDAwMCZpZ3VpZD0xOTg5ZDMxZS04MTJjLTY1ZTEtMDYwNi1jMTY1ODA1OTY0ZDkmaW5zaWQ9NTE4Ng&ptn=3&hsh=3&fclid=1989d31e-812c-65e1-0606-c165805964d9&psq=mojo&u=a1aHR0cHM6Ly93d3cubW9kdWxhci5jb20vbW9qbw&ntb=1" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.mTTi8o7Vf857iDjKUGuUUwHaHa?pid=ImgDet&rs=1" alt="Mojo" width="40" height="40"/> </a></p>
+### 📊 Stats
 
-<h3 align="center" width="100">Connect with me:</h3>
-<p align="center" width="100">
-<a href="https://www.linkedin.com/in/tsvetan-gerginov-532931220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsvetan (teto) gerginov" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01bfbeac6eea0aae79" target="blank"><img align="center" src="https://th.bing.com/th/id/R.ebdabc95d3fed294d5f787c7c3a0d7a2?rik=cxKOGnxCCHu%2bzw&pid=ImgRaw&r=0" alt="Tsvetan Gerginov" height="30" width="40" /></a>
-</p>
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsvetanG2&show_icons=true&theme=highcontrast)
 
-<h3 align="center" width="100">My Side Profiles</h3>
-<p align="center" width="100">
-<a href="https://leetcode.com/TsvetanG2/" target="blank"><img align="center" src="https://cdn.knoji.com/images/logo/leetcode.jpg?fit=contain&trim=true&flatten=true&extend=25&width=1200&height=630" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/t_gerginov" target="blank"><img align="center" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4088" alt="Tsvetan Gerginov" height="30" width="40" /></a>
-</p>
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
+#
 
+<details>
+ <summary><h3>👨‍💻 My Coding Journey </h3></summary>
+  <strong>I started my coding journey as a naive Software Engineering student with a passion to learn everything I could about this programming world. As a Software Engineering student with an unwavering passion for the craft, I dive headfirst into the realm of coding, algorithms, and problem-solving. Every line of code I write feels like a stroke of creativity, an opportunity to bring ideas to life through technology. From designing sleek user interfaces to architecting robust backend systems, I thrive on the challenge of crafting elegant solutions to complex problems. With each project, I not only sharpen my technical skills but also embrace the iterative nature of software development, constantly learning and refining my approach. Software engineering isn't just a field of study for me—it's a lifelong journey fueled by curiosity, innovation, and a boundless enthusiasm for building the future, one line of code at a time.</strong></details>
 
-
+[website]: https://fkcodes.com
+[youtube]: https://youtube.com/fknight
