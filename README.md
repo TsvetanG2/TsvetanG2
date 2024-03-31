@@ -55,8 +55,13 @@
 #
 
 <details>
- <summary><h3>👨‍💻 Latest Projects </h3></summary>
-[PDF TO EXCEL CONVERTER]
+<summary><h3>🛠️ Latest Projects </h3></summary>
+
+-   [PDF_TO_EXCEL_CONVERTER](https://github.com/TsvetanG2/PdfToExcelConverter)
+-  [WEATHER_APP](https://github.com/TsvetanG2/Weather-Application)
+-   [PYTHON_SCRAPPING](https://github.com/TsvetanG2/ScrappingTasks)
+   
+
 </details>
 
 #
