@@ -8,7 +8,7 @@
 
 <strong>I'm a Software Engineering Student with a passion for coding and developing, building my own version of the digital world one step at a time. All coding projects are built from the ground up, with passion and planning on solving a real-time issues</strong>
 
-   <p align="left">
+   <p align="center">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TsvetanG2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/TsvetanG2?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TsvetanG2?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
