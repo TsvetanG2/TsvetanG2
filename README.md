@@ -57,9 +57,8 @@
 <details>
 <summary><h3>🛠️ Latest Projects </h3></summary>
 
+-   [Multi_tenant_Doctor_Appointments_App_with_Independent_Databases](https://github.com/TsvetanG2/Multi-tenant-DocApp-with-independent-database-for-each-tenant-domain)   
 -   [PDF_TO_EXCEL_CONVERTER](https://github.com/TsvetanG2/PdfToExcelConverter)
--  [WEATHER_APP](https://github.com/TsvetanG2/Weather-Application)
--   [PYTHON_SCRAPPING](https://github.com/TsvetanG2/ScrappingTasks)
    
 
 </details>
