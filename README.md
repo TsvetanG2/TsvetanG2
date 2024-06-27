@@ -1,4 +1,9 @@
-# 🦁 Tsvetan Gerginov (Teto)
+<h1 align="center">Hi , I'm Tsvetan Gerginov (Teto)</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Python+Enthusiast;Student&center=true&width=500&height=50"></a>
+</p>
+
 **`Digital Craftsman (Developer/Software Engineer/Student)`**
 
 <strong>I'm a Software Engineering Student with a passion for coding and developing, building my own version of the digital world one step at a time. All coding projects are built from the ground up, with passion and planning on solving a real-time issues</strong>
