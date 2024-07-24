@@ -19,8 +19,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tsvetan-gerginov212/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" style="width: 100px; height: auto; margin: 10px;/></a>
-</p>
-<p align="center">
   <a href="mailto:t.gerginov@yahoo.com"><img src="https://img.shields.io/badge/Send%20me%20a%20mail-purple?style=flat&logo=mail.ru&logoColor=white&color=purple" style="width: 150px; height: auto; /></a>
 </p>
 
