@@ -1,6 +1,6 @@
 **`Digital Craftsman (Developer/Software Engineer/Student)`**
 
-<a href="https://github.com/TsvetanG2"><img align="center" width="1000" height="300" src="https://github.com/user-attachments/assets/f4adb371-cb00-4d6a-8ab6-60fea3feaf76?raw=true"></a>
+![snake gif](https://github.com/TsvetanG2/TsvetanG2/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D371EF&random=true&width=300&lines=A+Python+Developer;A+Django+Developer;A+Student;An+Enthusiast&center=true&width=400&height=50"" alt="Typing SVG" /></a>
