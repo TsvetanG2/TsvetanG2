@@ -1,5 +1,5 @@
 **`Digital Craftsman (Developer/Software Engineer/Student)`**
-
+<a href="https://github.com/TsvetanG2"><img align="center" width="1000" height="300" src="https://github.com/user-attachments/assets/f4adb371-cb00-4d6a-8ab6-60fea3feaf76?raw=true"></a>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D371EF&random=true&width=300&lines=A+Python+Developer;A+Django+Developer;A+Student;An+Enthusiast&center=true&width=600&height=100"" alt="Typing SVG" /></a>
@@ -30,9 +30,6 @@
 ![Django](https://img.shields.io/badge/Django-blue?style=flat&logo=Django&logoColor=blue&color=black)
 ![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=Flask&logoColor=white&color=black)
 
-
-#
-
 ### 🌐&nbsp;**`Connect with me`**
 
 <p align="center">
@@ -41,10 +38,6 @@
 <p align="center">
   <a href="mailto:t.gerginov@yahoo.com"><img src="https://img.shields.io/badge/Send%20me%20a%20mail-purple?style=flat&logo=mail.ru&logoColor=white&color=purple" style="width: 150px; height: auto; /></a>
 </p>
-
-
-
-#
 
 ### 📊&nbsp;**`Analytics`**
 
@@ -56,9 +49,6 @@
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsvetanG2&layout=compact&show_icons=true&theme=dracula" />
 </a>
 </p>
-
-
-#
 
 ### 👾&nbsp;**`Latest Projects`**
 
@@ -77,6 +67,5 @@
   </a>
 </p>
 
-#
 
 
