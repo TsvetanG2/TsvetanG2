@@ -1,5 +1,8 @@
 **`Digital Craftsman (Developer/Software Engineer/Student)`**
 
+![github-header-image](https://github.com/user-attachments/assets/6e1a8f47-eabc-4d2a-bb12-dbadc7c8d9bc)
+
+
 ![snake svg](https://github.com/TsvetanG2/TsvetanG2/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
