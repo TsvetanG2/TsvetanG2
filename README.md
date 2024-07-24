@@ -32,6 +32,14 @@
 ![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=Flask&logoColor=white&color=black)
 
 #
+
+### 📊&nbsp;**`Socials`**
+<p align="center">
+  <a href="https://www.linkedin.com/in/tsvetan-gerginov212/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" style="width: 100px; height: auto; margin: 10px;/></a>
+  <a href="mailto:t.gerginov@yahoo.com"><img src="https://img.shields.io/badge/Send%20me%20a%20mail-purple?style=flat&logo=mail.ru&logoColor=white&color=purple" style="width: 150px; height: auto; /></a>
+</p>
+
+#
                                        
 ### 📊&nbsp;**`Analytics`**
 <p align="center">
@@ -53,13 +61,4 @@
   <a href="https://github.com/TsvetanG2/PDF-To-Excel-Converter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=PDF-To-Excel-Converter&theme=cobalt" alt="Gist Card">
   </a>
-  <a href="https://github.com/TsvetanG2/Simple-Python-Automation-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Simple-Python-Automation-Projects&theme=cobalt" alt="Gist Card">
-  </a>
-  <a href="https://github.com/TsvetanG2/ScrappingTasks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=ScrappingTasks&theme=cobalt" alt="Gist Card">
-  </a>
-</p>
-
-#
 
