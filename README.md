@@ -50,10 +50,10 @@
 
 <p align="center">
   <a href="https://github.com/TsvetanG2">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TsvetanG2&show_icons=true&locale=en&theme=dracula&rank_icon=github" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=TsvetanG2&show_icons=true&locale=en&theme=dracula&rank_icon=github" />
   </a>
   <a href="https://github.com/TsvetanG2">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsvetanG2&layout=compact&show_icons=true&theme=dracula" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsvetanG2&layout=compact&show_icons=true&theme=dracula" />
 </a>
 </p>
 
@@ -77,6 +77,6 @@
   </a>
 </p>
 
-
+#
 
 
