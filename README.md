@@ -17,13 +17,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TsvetanG2?color=800080&style=for-the-badge&labelColor=000000&logo=star"/></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tsvetan-gerginov212/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" style="width: 100px; height: auto; margin: 10px;/></a>
-  <a href="mailto:t.gerginov@yahoo.com"><img src="https://img.shields.io/badge/Send%20me%20a%20mail-purple?style=flat&logo=mail.ru&logoColor=white&color=purple" style="width: 150px; height: auto; /></a>
-</p>
-
-#
-
 ### 🧰&nbsp;**`Tech Stack`**
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
