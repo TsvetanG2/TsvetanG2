@@ -15,6 +15,8 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TsvetanG2?color=800080&style=for-the-badge&labelColor=000000&logo=star"/></a>
    </p>
 
+#
+
 ### 🧰&nbsp;**`Tech Stack`**
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -30,6 +32,8 @@
 ![Django](https://img.shields.io/badge/Django-blue?style=flat&logo=Django&logoColor=blue&color=black)
 ![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=Flask&logoColor=white&color=black)
 
+#
+
 ### 🌐&nbsp;**`Connect with me`**
 
 <p align="center">
@@ -39,6 +43,9 @@
   <a href="mailto:t.gerginov@yahoo.com"><img src="https://img.shields.io/badge/Send%20me%20a%20mail-purple?style=flat&logo=mail.ru&logoColor=white&color=purple" style="width: 150px; height: auto; /></a>
 </p>
 
+#
+
+                                        
 ### 📊&nbsp;**`Analytics`**
 
 <p align="center">
@@ -49,6 +56,8 @@
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsvetanG2&layout=compact&show_icons=true&theme=dracula" />
 </a>
 </p>
+
+#
 
 ### 👾&nbsp;**`Latest Projects`**
 
@@ -67,5 +76,5 @@
   </a>
 </p>
 
-
+#
 
