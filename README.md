@@ -1,4 +1,4 @@
-**`Digital Craftsman (Developer/Software Engineer/Student)`**
+**`Digital Craftsman (Python Web Developer/Software Engineer/Student)`**
 
 ![Banner](https://github.com/user-attachments/assets/d5f9c55f-cf38-4d8e-aeb7-89fc2ceba560)
 
