@@ -1,4 +1,5 @@
 **`Digital Craftsman (Developer/Software Engineer/Student)`**
+
 <a href="https://github.com/TsvetanG2"><img align="center" width="1000" height="300" src="https://github.com/user-attachments/assets/f4adb371-cb00-4d6a-8ab6-60fea3feaf76?raw=true"></a>
 
 <p align="center">
@@ -19,7 +20,6 @@
 #
 
 ### 🧰&nbsp;**`Tech Stack`**
-
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -36,7 +36,6 @@
 #
 
 ### 🌐&nbsp;**`Connect with me`**
-
 <p align="center">
   <a href="https://www.linkedin.com/in/tsvetan-gerginov212/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" style="width: 100px; height: auto; margin: 10px;/></a>
 </p>
@@ -45,10 +44,8 @@
 </p>
 
 #
-
-                                        
+                                       
 ### 📊&nbsp;**`Analytics`**
-
 <p align="center">
   <a href="https://github.com/TsvetanG2">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=TsvetanG2&show_icons=true&locale=en&theme=dracula&rank_icon=github" />
@@ -61,7 +58,6 @@
 #
 
 ### 👾&nbsp;**`Latest Projects`**
-
 <p align="center">
   <a href="https://github.com/TsvetanG2/Multi-tenant-DocApp-with-independent-database-for-each-tenant-domain">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Multi-tenant-DocApp-with-independent-database-for-each-tenant-domain&theme=cobalt" alt="Gist Card">
