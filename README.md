@@ -3,7 +3,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/6e1a8f47-eabc-4d2a-bb12-dbadc7c8d9bc)
 
 
-![snake svg](https://github.com/TsvetanG2/TsvetanG2/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/TsvetanG2/TsvetanG2/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D371EF&random=true&width=300&lines=A+Python+Developer;A+Django+Developer;A+Student;An+Enthusiast&center=true&width=400&height=50"" alt="Typing SVG" /></a>
