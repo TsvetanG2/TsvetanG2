@@ -17,6 +17,13 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TsvetanG2?color=800080&style=for-the-badge&labelColor=000000&logo=star"/></a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tsvetan-gerginov212/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" style="width: 100px; height: auto; margin: 10px;/></a>
+</p>
+<p align="center">
+  <a href="mailto:t.gerginov@yahoo.com"><img src="https://img.shields.io/badge/Send%20me%20a%20mail-purple?style=flat&logo=mail.ru&logoColor=white&color=purple" style="width: 150px; height: auto; /></a>
+</p>
+
 #
 
 ### 🧰&nbsp;**`Tech Stack`**
@@ -32,16 +39,6 @@
 ![Pyucharm](https://img.shields.io/badge/Pycharm-yellow%26green?style=flat&logo=pycharm&logoColor=yellow&color=black)
 ![Django](https://img.shields.io/badge/Django-blue?style=flat&logo=Django&logoColor=blue&color=black)
 ![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=Flask&logoColor=white&color=black)
-
-#
-
-### 🌐&nbsp;**`Connect with me`**
-<p align="center">
-  <a href="https://www.linkedin.com/in/tsvetan-gerginov212/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" style="width: 100px; height: auto; margin: 10px;/></a>
-</p>
-<p align="center">
-  <a href="mailto:t.gerginov@yahoo.com"><img src="https://img.shields.io/badge/Send%20me%20a%20mail-purple?style=flat&logo=mail.ru&logoColor=white&color=purple" style="width: 150px; height: auto; /></a>
-</p>
 
 #
                                        
