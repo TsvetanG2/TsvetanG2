@@ -1,6 +1,6 @@
 **`Digital Craftsman (Developer/Software Engineer/Student)`**
 
-![github-header-image](https://github.com/user-attachments/assets/6e1a8f47-eabc-4d2a-bb12-dbadc7c8d9bc)
+![Banner](https://github.com/user-attachments/assets/d5f9c55f-cf38-4d8e-aeb7-89fc2ceba560)
 
 
 ![snake svg](https://github.com/TsvetanG2/TsvetanG2/blob/output/github-contribution-grid-snake-dark.svg)
