@@ -2,9 +2,6 @@
 
 ![Banner](https://github.com/user-attachments/assets/d5f9c55f-cf38-4d8e-aeb7-89fc2ceba560)
 
-
-![snake svg](https://github.com/TsvetanG2/TsvetanG2/blob/output/github-contribution-grid-snake-dark.svg)
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D371EF&random=true&width=300&lines=A+Python+Developer;A+Django+Developer;A+Student;An+Enthusiast&center=true&width=400&height=50"" alt="Typing SVG" /></a>
 </p>
@@ -63,3 +60,5 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=ScrappingTasks&theme=cobalt" alt="Gist Card">
   </a>
 </p>
+
+![snake svg](https://github.com/TsvetanG2/TsvetanG2/blob/output/github-contribution-grid-snake-dark.svg)
