@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>I'm a Software Engineering Student with a passion for coding and developing, building my own version of the digital world one step at a time. All coding projects are built from the ground up, with passion and planning on solving a real-time issues</strong>
+  <strong>I'm a Software Engineering Student with a passion for coding and developing, building my own version of the digital world one step at a time. All coding projects are built from the ground, with passion and planning on solving a real-time issues</strong>
 </p>
 
 <p align="center">
