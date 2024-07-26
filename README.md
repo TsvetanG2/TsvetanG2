@@ -17,23 +17,27 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TsvetanG2?color=800080&style=for-the-badge&labelColor=000000&logo=star"/></a>
 </p>
 
-### 🧰&nbsp;**`Tech Stack`**
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Python](https://img.shields.io/badge/python-%23150458.svg?style=flat&logo=python&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
-![Mojo](https://img.shields.io/badge/MojoLang-red?style=flat&logo=mega&logoColor=red&color=black)
-![Pyucharm](https://img.shields.io/badge/Pycharm-yellow%26green?style=flat&logo=pycharm&logoColor=yellow&color=black)
-![Django](https://img.shields.io/badge/Django-blue?style=flat&logo=Django&logoColor=blue&color=black)
-![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=Flask&logoColor=white&color=black)
+## 🧰&nbsp;**`Tech Stack:`**
+### Languages and Tools :
+| Python3 | Django | JS | HTML3 | CSS3 | Jupyter | PostgreSQL | MySQL |
+|----------|----------|----------|-----|-----|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django"  alt="Django" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
+
+### Environments, Testing, Other:
+
+| Git | Docker | Pycharm | Visual Studio |
+|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/>
+
+### OS:
+
+| Linux | Ubuntu | Windows |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="55" height="55"/> | 
 
 #
                                        
-### 📊&nbsp;**`Analytics`**
+## 📊&nbsp;**`Analytics`**
 <p align="center">
   <a href="https://github.com/TsvetanG2">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=TsvetanG2&show_icons=true&locale=en&theme=dracula&rank_icon=github" />
@@ -45,7 +49,7 @@
 
 #
 
-### 👾&nbsp;**`Latest Projects`**
+## 👾&nbsp;**`Latest Projects`**
 <p align="center">
   <a href="https://github.com/TsvetanG2/Multi-tenant-DocApp-with-independent-database-for-each-tenant-domain">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Multi-tenant-DocApp-with-independent-database-for-each-tenant-domain&theme=cobalt" alt="Gist Card">
