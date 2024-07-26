@@ -17,19 +17,19 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TsvetanG2?color=800080&style=for-the-badge&labelColor=000000&logo=star"/></a>
 </p>
 
-## 🧰&nbsp;**`Tech Stack:`**
-### Languages and Tools :
+## 🧰&nbsp;**`Tech Stack`**
+### **`Languages and Tools`**
 | Python3 | Django | JS | HTML3 | CSS3 | Jupyter | PostgreSQL | MySQL |
 |----------|----------|----------|-----|-----|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django"  alt="Django" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
 
-### Environments, Testing, Other:
+### **`Environments, Testing, Other`**
 
 | Git | Docker | Pycharm | Visual Studio |
 |----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/>
 
-### OS:
+### **`OS`**
 
 | Linux | Ubuntu | Windows |
 |----------|----------|----------|
