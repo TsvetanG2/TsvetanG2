@@ -64,9 +64,6 @@
   <a href="https://github.com/TsvetanG2/Simple-Python-Automation-Projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Simple-Python-Automation-Projects&theme=cobalt" alt="Gist Card">
   </a>
-  <a href="https://github.com/TsvetanG2/ScrappingTasks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=ScrappingTasks&theme=cobalt" alt="Gist Card">
-  </a>
 </p>
 
 ![snake svg](https://github.com/TsvetanG2/TsvetanG2/blob/output/github-contribution-grid-snake-dark.svg)
