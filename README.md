@@ -3,11 +3,11 @@
 ![Banner](https://github.com/user-attachments/assets/d5f9c55f-cf38-4d8e-aeb7-89fc2ceba560)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D371EF&random=true&width=300&lines=A+Python+Developer;A+Django+Developer;A+Student;An+Enthusiast&center=true&width=400&height=50"" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D371EF&random=true&width=300&lines=A+Python+Developer;A+Django+Developer;An+Enthusiast&center=true&width=400&height=50"" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <strong>I'm a Software Engineering Student with a passion for coding and developing, building my own version of the digital world one step at a time. All coding projects are built from the ground, with passion and planning on solving a real-time issues</strong>
+  <strong>Not many projects uploaded here as on time to time i raw code</strong>
 </p>
 
 <p align="center">
