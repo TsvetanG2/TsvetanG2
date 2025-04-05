@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Not many projects uploaded here as on time to time i raw code</strong>
+  <strong>Not many projects uploaded here as on time to time i code</strong>
 </p>
 
 <p align="center">
