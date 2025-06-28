@@ -1,13 +1,7 @@
 **`Software Developer during the night | IT Project Specialist and Analyses during the day`**
 
-![Banner](https://github.com/user-attachments/assets/d5f9c55f-cf38-4d8e-aeb7-89fc2ceba560)
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D371EF&random=true&width=300&lines=A+Python+Developer;A+Django+Developer;An+Enthusiast&center=true&width=400&height=50"" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <strong>Not many projects uploaded here as on time to time i code</strong>
 </p>
 
 <p align="center">
