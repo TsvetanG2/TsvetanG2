@@ -64,8 +64,8 @@
   <a href="https://github.com/TsvetanG2/PDF-To-Excel-Converter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=PDF-To-Excel-Converter&theme=cobalt" alt="Gist Card">
   </a>
-  <a href="https://github.com/TsvetanG2/Simple-Python-Automation-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Simple-Python-Automation-Projects&theme=cobalt" alt="Gist Card">
+  <a href="https://github.com/TsvetanG2/Advanced-Local-OCR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Advanced-Local-OCR&theme=cobalt" alt="Gist Card">
   </a>
 </p>
 
