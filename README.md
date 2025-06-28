@@ -27,15 +27,6 @@
 |----------|----------|----------|----------|--------|-----|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/>|<img src="https://github.com/user-attachments/assets/7cdad967-9f4b-4d75-a52e-b56f06455b26" title="powerautomate" alt="powerautomate" width="100" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/user-attachments/assets/f283a993-306d-4400-8a30-258f77170887" title="n8n" alt="N8N" width="55" height="55"/>|<img src="https://github.com/user-attachments/assets/60ea6be3-090f-4920-a247-820565730603" title="PowerApps" alt="POWERAPPS" width="55" height="55"/>
 
-
-
-
-### **`OS`**
-
-| Linux | Ubuntu | Windows |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="55" height="55"/> | 
-
 #
                                        
 ## 📊&nbsp;**`Analytics`**
