@@ -52,8 +52,8 @@
 
 ## 👾&nbsp;**`Latest Projects`**
 <p align="center">
-  <a href="https://github.com/TsvetanG2/Multi-tenant-DocApp-with-independent-database-for-each-tenant-domain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Multi-tenant-DocApp-with-independent-database-for-each-tenant-domain&theme=cobalt" alt="Gist Card">
+  <a href="https://github.com/TsvetanG2/Multi-tenant-Custom-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Multi-tenant-Custom-App&theme=cobalt" alt="Gist Card">
   </a>
   <a href="https://github.com/TsvetanG2/PDF-To-Excel-Converter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=PDF-To-Excel-Converter&theme=cobalt" alt="Gist Card">
