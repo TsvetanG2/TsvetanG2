@@ -4,6 +4,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D371EF&random=true&width=300&lines=A+Python+Developer;A+Django+Developer;An+Enthusiast&center=true&width=400&height=50"" alt="Typing SVG" /></a>
 </p>
 
+[![Watch the video](https://github.com/user-attachments/assets/36d7165a-22f9-4bdc-8080-94d95470259d)](https://www.youtube.com/watch?v=-eGScySZZmw)
+
 <p align="center">
   <a href="https://github.com/TsvetanG2">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TsvetanG2?color=8B0000&labelColor=000000&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
