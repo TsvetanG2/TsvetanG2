@@ -2,10 +2,10 @@
 
  <p align="center">
     <a href="https://github.com/TsvetanG2">
-      <img height="20" src="https://img.shields.io/github/followers/TsvetanG2?label=follow&logo=github&style=flat" />
+      <img height="20" src="https://img.shields.io/github/followers/TsvetanG2?label=follow&color=purple&logo=github&style=flat" />
     </a>
     <a href="https://www.linkedin.com/in/tsvetan-gerginov212/">
-      <img height="20" src="https://img.shields.io/twitter/follow/TsvetanG2?label=LinkedIn&color=blue&style=flat" />
+      <img height="20" src="https://img.shields.io/twitter/follow/TsvetanG2?label=LinkedIn&color=purple&style=flat" />
     </a>
   </p>
 
