@@ -22,8 +22,12 @@
 </p>
 
 <p align="center">
- <a href="https://youtu.be/7cDYYvOhKwg">
-  <img alt="song" title="Play It!" src="https://github.com/user-attachments/assets/1cbb640e-b552-432d-baf6-3a3e25bbc92d"/></a>
+  <a href="https://youtu.be/7cDYYvOhKwg">
+    <img 
+      alt="song" 
+      src="https://github.com/user-attachments/assets/da75e657-e8d6-44cd-8e15-3a73a350328c"
+    />
+  </a>
 </p>
 
 ## 🧰&nbsp;**`Tech Stack`**
