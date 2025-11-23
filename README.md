@@ -21,6 +21,11 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TsvetanG2?color=800080&style=for-the-badge&labelColor=000000&logo=star"/></a>
 </p>
 
+<p align="center">
+ <a href="https://youtu.be/7cDYYvOhKwg">
+  <img alt="song" title="Play It!" src="https://github.com/user-attachments/assets/1cbb640e-b552-432d-baf6-3a3e25bbc92d"/></a>
+</p>
+
 ## 🧰&nbsp;**`Tech Stack`**
 ### **`Languages and Tools`**
 | Python3 | Django | Robocorp | PostgreSQL | VBA | Node.js | React | Flask |
