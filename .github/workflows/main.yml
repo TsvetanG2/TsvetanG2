@@ -1,26 +1,31 @@
 name: generate animation
 on:
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
     branches:
       - master
-      
+
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
-      - name: Install dependencies
+      # 1. Install dependencies for native canvas (needed for GIF!)
+      - name: Install canvas build dependencies
         run: |
-          npm install canvas
           sudo apt-get update
           sudo apt-get install -y libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
-          
+
+      # (Optional) 2. Install canvas via npm if needed locally
+      # - name: Install node-canvas (optional unless you need it locally)
+      #   run: npm install canvas
+
+      # 3. Run snk to generate SVG and GIF
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
@@ -29,7 +34,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=cyan&color_dots=#CFC2CF,#CA8CFF,#64a1f4,#D14FF2,#A13CDB
-          
+
+      # 4. Push generated files to output branch
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
