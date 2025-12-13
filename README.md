@@ -66,10 +66,6 @@
     <a href="https://github.com/TsvetanG2/Multi-tenant-Custom-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Multi-tenant-Custom-App&theme=cobalt" alt="Gist Card">
   </a>
-  <a href="https://github.com/TsvetanG2/Advanced-Local-OCR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Advanced-Local-OCR&theme=cobalt" alt="Gist Card">
-  </a>
-
 </p>
 
 ![snake svg](https://github.com/TsvetanG2/TsvetanG2/blob/output/github-contribution-grid-snake-dark.svg)
