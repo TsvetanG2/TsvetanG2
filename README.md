@@ -22,10 +22,10 @@
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/7cDYYvOhKwg">
+  <a href="https://www.youtube.com/watch?v=dddCZfURcko&list=RDdddCZfURcko">
     <img 
       alt="song" 
-      src="https://github.com/user-attachments/assets/da75e657-e8d6-44cd-8e15-3a73a350328c"
+      src="https://media.tenor.com/nzY23ry8MZ8AAAAM/fakemink-esdeekid.gif"
     />
   </a>
 </p>
