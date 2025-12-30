@@ -63,8 +63,11 @@
   <a href="https://github.com/TsvetanG2/PDF-To-Excel-Converter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=PDF-To-Excel-Converter&theme=cobalt" alt="Gist Card">
   </a>
-    <a href="https://github.com/TsvetanG2/Multi-tenant-Custom-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Multi-tenant-Custom-App&theme=cobalt" alt="Gist Card">
+   <a href="https://github.com/TsvetanG2/Multi-Tenant-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Multi-Tenant-App&theme=cobalt" alt="Gist Card">
+  </a>
+    <a href="https://github.com/TsvetanG2/Email-Attachment-Downloader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Email-Attachment-Downloader&theme=cobalt" alt="Gist Card">
   </a>
 </p>
 
