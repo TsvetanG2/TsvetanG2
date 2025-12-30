@@ -49,10 +49,10 @@
 ## 📊&nbsp;**`Analytics`**
 <p align="center">
   <a href="https://github.com/TsvetanG2">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=TsvetanG2&show_icons=true&locale=en&theme=dracula&rank_icon=github" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=TsvetanG2&show_icons=true&locale=en&theme=dracula&rank_icon=github" >
   </a>
   <a href="https://github.com/TsvetanG2">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsvetanG2&layout=compact&show_icons=true&theme=dracula" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsvetanG2&layout=compact&show_icons=true&theme=dracula" >
 </a>
 </p>
 
@@ -61,13 +61,13 @@
 ## 👾&nbsp;**`Latest Projects`**
 <p align="center">
   <a href="https://github.com/TsvetanG2/PDF-To-Excel-Converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=PDF-To-Excel-Converter&theme=cobalt" alt="Gist Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=PDF-To-Excel-Converter&theme=cobalt" alt="PDF-To-Excel-Converter">
   </a>
-   <a href="https://github.com/TsvetanG2/Multi-Tenant-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Multi-Tenant-App&theme=cobalt" alt="Gist Card">
+  <a href="https://github.com/TsvetanG2/Multi-Tenant-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Multi-Tenant-App&theme=cobalt" alt="Multi-Tenant-App">
   </a>
-    <a href="https://github.com/TsvetanG2/Email-Attachment-Downloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Email-Attachment-Downloader&theme=cobalt" alt="Gist Card">
+   <a href="https://github.com/TsvetanG2/Email-Attachment-Downloader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Email-Attachment-Downloader&theme=cobalt" alt="Email-Attachment-Downloader">
   </a>
 </p>
 
