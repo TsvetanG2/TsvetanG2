@@ -22,12 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dddCZfURcko&list=RDdddCZfURcko">
-    <img 
-      alt="song" 
-      src="https://media.tenor.com/nzY23ry8MZ8AAAAM/fakemink-esdeekid.gif"
-    />
-  </a>
+  <a href="https://buymeacoffee.com/tsvetang">You can Support Me By Clicking Here!</a>
 </p>
 
 ## 🧰&nbsp;**`Tech Stack`**
