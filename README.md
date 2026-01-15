@@ -44,11 +44,11 @@
 ## 📊&nbsp;**`Analytics`**
 <p align="center">
   <a href="https://github.com/TsvetanG2">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=TsvetanG2&show_icons=true&locale=en&theme=dracula&rank_icon=github" >
+    <img height="150" align="center" src="./profile/stats.svg" />
   </a>
   <a href="https://github.com/TsvetanG2">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsvetanG2&layout=compact&show_icons=true&theme=dracula" >
-</a>
+    <img height="150" align="center" src="./profile/top-langs.svg" />
+  </a>
 </p>
 
 #
@@ -56,13 +56,13 @@
 ## 👾&nbsp;**`Latest Projects`**
 <p align="center">
   <a href="https://github.com/TsvetanG2/PDF-To-Excel-Converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=PDF-To-Excel-Converter&theme=cobalt" alt="PDF-To-Excel-Converter">
+    <img src="./profile/pin-pdf-to-excel.svg" alt="PDF-To-Excel-Converter" />
   </a>
   <a href="https://github.com/TsvetanG2/Multi-Tenant-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Multi-Tenant-App&theme=cobalt" alt="Multi-Tenant-App">
+    <img src="./profile/pin-multi-tenant-app.svg" alt="Multi-Tenant-App" />
   </a>
-   <a href="https://github.com/TsvetanG2/Email-Attachment-Downloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsvetanG2&repo=Email-Attachment-Downloader&theme=cobalt" alt="Email-Attachment-Downloader">
+  <a href="https://github.com/TsvetanG2/Email-Attachment-Downloader">
+    <img src="./profile/pin-email-attachment-downloader.svg" alt="Email-Attachment-Downloader" />
   </a>
 </p>
 
