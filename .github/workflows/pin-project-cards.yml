@@ -1,0 +1,50 @@
+name: Update pinned repo cards
+
+on:
+  schedule:
+    - cron: "10 0 * * *" # 10 мин след другия, за да няма конфликт
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Ensure output folder
+        run: mkdir -p profile
+
+      - name: Pin - PDF To Excel Converter
+        uses: stats-organization/github-readme-stats-action@v1.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=PDF-To-Excel-Converter&theme=cobalt&hide_border=true
+          path: profile/pin-pdf-to-excel.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin - Multi Tenant App
+        uses: stats-organization/github-readme-stats-action@v1.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Multi-Tenant-App&theme=cobalt&hide_border=true
+          path: profile/pin-multi-tenant-app.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin - Email Attachment Downloader
+        uses: stats-organization/github-readme-stats-action@v1.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Email-Attachment-Downloader&theme=cobalt&hide_border=true
+          path: profile/pin-email-attachment-downloader.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update pinned repo cards" || exit 0
+          git push
