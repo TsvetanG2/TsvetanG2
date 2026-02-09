@@ -5,12 +5,12 @@
       <img height="20" src="https://img.shields.io/github/followers/TsvetanG2?label=follow&color=purple&logo=github&style=flat" />
     </a>
     <a href="https://www.linkedin.com/in/tsvetan-gerginov212/">
-      <img height="20" src="https://img.shields.io/twitter/follow/TsvetanG2?label=LinkedIn&color=purple&style=flat" />
+      <img height="20" src="https://img.shields.io/badge/LinkedIn%20followers-834-0A66C2?logo=linkedin&logoColor=white&style=flat" />
     </a>
   </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D371EF&random=true&width=300&lines=A+Software+Developer;A+Power+Developer;An+Enthusiast&center=true&width=400&height=50"" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D371EF&random=true&width=300&lines=A+Software+Developer;A+Power+Developer;An+Enthusiast;+Cognigy+Devloper&center=true&width=400&height=50"" alt="Typing SVG" /></a>
 </p>
 
 
