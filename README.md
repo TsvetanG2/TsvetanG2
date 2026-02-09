@@ -1,4 +1,4 @@
-**` Software Developer / Power Developer `** ![](https://komarev.com/ghpvc/?username=TsvetanG2&color=blueviolet)
+**` Software Developer / Power Developer / Cognigy AI Developer `** ![](https://komarev.com/ghpvc/?username=TsvetanG2&color=blueviolet)
 
  <p align="center">
     <a href="https://github.com/TsvetanG2">
@@ -24,6 +24,9 @@
 <p align="center">
   <a href="https://buymeacoffee.com/tsvetang">You can Support Me By Clicking Here!</a>
 </p>
+
+## 🔥&nbsp;**`About Me`**
+Hi, welcome to my profile. I'm a Software Developer with ambition for automation and AI Agent development. You can find more about me, my stack, my passions & projects below. Enjoy!
 
 ## 🧰&nbsp;**`Tech Stack`**
 ### **`Languages and Tools`**
