@@ -5,7 +5,7 @@
       <img height="20" src="https://img.shields.io/github/followers/TsvetanG2?label=Github%20Followers&color=purple&logo=github&style=flat" />
     </a>
     <a href="https://www.linkedin.com/in/tsvetan-gerginov212/">
-      <img height="20" src="https://img.shields.io/badge/LinkedIn%20followers-834-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+      <img height="20" src="https://img.shields.io/badge/LinkedIn%20followers-841-0A66C2?logo=linkedin&logoColor=white&style=flat" />
     </a>
   </p>
 
