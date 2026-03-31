@@ -29,8 +29,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=Multi-Tenant-App&theme=cobalt&hide_border=true
-          path: profile/pin-multi-tenant-app.svg
+          options: username=${{ github.repository_owner }}&repo=InstagramPostScrapper&theme=cobalt&hide_border=true
+          path: profile/pin-instagram-post-scrapper.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Pin - Email Attachment Downloader
