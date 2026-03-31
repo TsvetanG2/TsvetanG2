@@ -61,8 +61,8 @@ Hi, welcome to my profile. I'm a Software Developer with ambition for automation
   <a href="https://github.com/TsvetanG2/PDF-To-Excel-Converter">
     <img src="./profile/pin-pdf-to-excel.svg" alt="PDF-To-Excel-Converter" />
   </a>
-  <a href="https://github.com/TsvetanG2/Multi-Tenant-App">
-    <img src="./profile/pin-multi-tenant-app.svg" alt="Multi-Tenant-App" />
+  <a href="https://github.com/TsvetanG2/InstagramPostScrapper">
+    <img src="./profile/pin-instagram-post-scrapper.svg" alt="Instagram-Post-Scrapper" />
   </a>
   <a href="https://github.com/TsvetanG2/Email-Attachment-Downloader">
     <img src="./profile/pin-email-attachment-downloader.svg" alt="Email-Attachment-Downloader" />
