@@ -62,7 +62,7 @@ Hi, welcome to my profile. I'm a Software Developer with ambition for automation
     <img src="./profile/pin-pdf-to-excel.svg" alt="PDF-To-Excel-Converter" />
   </a>
   <a href="https://github.com/TsvetanG2/InstagramWrapperPostScraper">
-    <img src="./profile/pin-instagram-wrapper-post-scraper.svg" alt="Instagram-Wrapper-Post-Scraper" />
+    <img src="./profile/pin-instagram-wrapper-post-scrapper.svg" alt="Instagram-Wrapper-Post-Scraper" />
   </a>
   <a href="https://github.com/TsvetanG2/Email-Attachment-Downloader">
     <img src="./profile/pin-email-attachment-downloader.svg" alt="Email-Attachment-Downloader" />
