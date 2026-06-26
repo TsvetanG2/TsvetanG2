@@ -21,8 +21,10 @@
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/tsvetang">You can Support Me By Clicking Here!</a>
+  <a href="https://buymeacoffee.com/tsvetang">You can Support Me Here!</a>
 </p>
+
+#
 
 **` Software Developer / Power Developer / Automation Specialist `**
 
