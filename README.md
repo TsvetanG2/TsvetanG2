@@ -1,6 +1,9 @@
-**` Software Developer / Power Developer / Cognigy AI Developer `** ![](https://komarev.com/ghpvc/?username=TsvetanG2&color=blueviolet)
+**` Software Developer / Power Developer / Cognigy AI Developer `**
 
  <p align="center">
+     <a href="https://github.com/TsvetanG2">
+      <img height="20" src="https://komarev.com/ghpvc/?username=TsvetanG2&color=blueviolet" />
+    </a>
     <a href="https://github.com/TsvetanG2">
       <img height="20" src="https://img.shields.io/github/followers/TsvetanG2?label=Github%20Followers&color=purple&logo=github&style=flat" />
     </a>
