@@ -1,6 +1,4 @@
-**` Software Developer / Power Developer / Cognigy AI Developer `**
-
- <p align="center">
+<p align="center">
      <a href="https://github.com/TsvetanG2">
       <img height="20" src="https://komarev.com/ghpvc/?username=TsvetanG2&color=blueviolet" />
     </a>
@@ -13,7 +11,7 @@
   </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D371EF&random=true&width=300&lines=A+Software+Developer;A+Power+Developer;An+Enthusiast;+Cognigy+Devloper&center=true&width=400&height=50"" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D371EF&random=true&width=300&lines=A+Software+Developer;A+Power+Developer;Automation+Specialist&center=true&width=400&height=50"" alt="Typing SVG" /></a>
 </p>
 
 
@@ -25,6 +23,8 @@
 <p align="center">
   <a href="https://buymeacoffee.com/tsvetang">You can Support Me By Clicking Here!</a>
 </p>
+
+**` Software Developer / Power Developer / Cognigy AI Developer `**
 
 ## 🔥&nbsp;**`About Me`**
 Hi, welcome to my profile. I'm a Software Developer with ambition for automation and AI Agent development. You can find more about me, my stack, my passions & projects below. Enjoy!
