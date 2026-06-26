@@ -24,7 +24,7 @@
   <a href="https://buymeacoffee.com/tsvetang">You can Support Me By Clicking Here!</a>
 </p>
 
-**` Software Developer / Power Developer / Cognigy AI Developer `**
+**` Software Developer / Power Developer / Automation Specialist `**
 
 ## 🔥&nbsp;**`About Me`**
 Hi, welcome to my profile. I'm a Software Developer with ambition for automation and AI Agent development. You can find more about me, my stack, my passions & projects below. Enjoy!
