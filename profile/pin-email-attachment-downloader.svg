@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">A powerful desktop application for bulk downloading email</tspan><tspan dy="1.2em" x="25">attachments from Gmail and Outlook with advanced filtering,</tspan><tspan dy="1.2em" x="25">auto-renaming, and a modern GUI</tspan>
+      <tspan dy="1.2em" x="25">Bulk download email attachments from Gmail &#38; Outlook -</tspan><tspan dy="1.2em" x="25">desktop app with date/sender filtering, file-type</tspan><tspan dy="1.2em" x="25">selection, auto-renaming &#38; a modern GUI.</tspan>
     </text>
 
     <g transform="translate(30, 75)">
