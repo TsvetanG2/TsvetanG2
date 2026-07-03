@@ -20,6 +20,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TsvetanG2?color=800080&style=for-the-badge&labelColor=000000&logo=star"/></a>
 </p>
 
+
 <p align="center">
   <a href="https://buymeacoffee.com/tsvetang">You can Support Me Here!</a>
 </p>
@@ -65,11 +66,14 @@ Hi, welcome to my profile. I'm a Software Developer with ambition for automation
   <a href="https://github.com/TsvetanG2/PDF-To-Excel-Converter">
     <img src="./profile/pin-pdf-to-excel.svg" alt="PDF-To-Excel-Converter" />
   </a>
-  <a href="https://github.com/TsvetanG2/InstagramWrapperPostScraper">
-    <img src="./profile/pin-instagram-wrapper-post-scrapper.svg" alt="Instagram-Wrapper-Post-Scraper" />
+  <a href="https://github.com/TsvetanG2/Instagram-Media-Downloader">
+    <img src="./profile/pin-instagram-media-downloader.svg" alt="Instagram-Media-Downloader" />
   </a>
   <a href="https://github.com/TsvetanG2/Email-Attachment-Downloader">
     <img src="./profile/pin-email-attachment-downloader.svg" alt="Email-Attachment-Downloader" />
+  </a>
+<a href="https://github.com/TsvetanG2/cognigy-ai-mcp-management-server">
+    <img src="./profile/pin-cognigy-ai-mcp-management-server.svg" alt="cognigy-ai-mcp-management-server" />
   </a>
 </p>
 
