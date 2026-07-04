@@ -46,10 +46,6 @@ Hi, welcome to my profile. I'm a Software Developer with ambition for automation
 |----------|----------|----------|----------|----------|----------|
 |  <img src="https://github.com/user-attachments/assets/bd645395-d5f1-464f-abab-8b1d7253141a" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://i.pinimg.com/736x/ac/eb/dd/acebdd2e33ab82dfc7f3ad57f0bf9c0a.jpg" title="RoboCorp" alt="robocorp" width="80" height="55"/>|<img src="https://github.com/user-attachments/assets/4ed0ef95-be1c-42aa-bf15-625ecb156483" title="vba" alt="VBA" width="55" height="55"/>|<img src="https://github.com/user-attachments/assets/19572dd4-7a16-4af4-8bd8-3fda01f713ba" title="Javascript" alt="JAVASCRIPT" width="55" height="55"/>|<img src="https://github.com/user-attachments/assets/401d8e5c-6975-4c30-a8d9-8899c592a9ce" title="cognigyscript" alt="CognigyScript" width="120" height="55"/>| <img width="55" height="55" alt="powerfx_ (1)" src="https://github.com/user-attachments/assets/1dc6890f-be01-4db4-a278-c79ca3d32e0e" />
 
-<p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=55&color=0:006D77,25:2EC4B6,50:48CAE4,75:90E0EF,100:CAF0F8&section=footer&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=55&color=0:006D77,25:2EC4B6,50:48CAE4,75:90E0EF,100:CAF0F8&section=header&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
-</p>
 
 ### **`Others`**
 
