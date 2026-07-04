@@ -1,4 +1,8 @@
 <p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome&section=header&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
+</p>
+
+<p align="center">
      <a href="https://github.com/TsvetanG2">
       <img height="20" src="https://komarev.com/ghpvc/?username=TsvetanG2&color=blueviolet" />
     </a>
@@ -78,3 +82,7 @@ Hi, welcome to my profile. I'm a Software Developer with ambition for automation
 </p>
 
 ![snake svg](https://github.com/TsvetanG2/TsvetanG2/blob/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
+</p>
