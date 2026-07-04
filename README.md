@@ -1,6 +1,6 @@
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=header&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=:E91E63,25:F06292,50:F8BBD9,75:FCE4EC,100:FFFFF&section=footer&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=:E91E63,25:F06292,50:F8BBD9,75:FCE4EC,100:FFFFF&section=header&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
 </p>
 
 <p align="center">
@@ -80,6 +80,11 @@ Hi, welcome to my profile. I'm a Software Developer with ambition for automation
 <a href="https://github.com/TsvetanG2/cognigy-ai-mcp-management-server">
     <img src="./profile/pin-cognigy-ai-mcp-management-server.svg" alt="cognigy-ai-mcp-management-server" />
   </a>
+</p>
+
+<p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=:E91E63,25:F06292,50:F8BBD9,75:FCE4EC,100:FFFFF&section=footer&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=:E91E63,25:F06292,50:F8BBD9,75:FCE4EC,100:FFFFF&section=header&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
 </p>
 
 ![snake svg](https://github.com/TsvetanG2/TsvetanG2/blob/output/github-contribution-grid-snake-dark.svg)
