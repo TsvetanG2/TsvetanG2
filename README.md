@@ -5,24 +5,24 @@
 
 <p align="center">
      <a href="https://github.com/TsvetanG2">
-      <img height="20" src="https://komarev.com/ghpvc/?username=TsvetanG2&color=blueviolet" />
+      <img height="20" src="https://komarev.com/ghpvc/?username=TsvetanG2&color=010203" />
     </a>
     <a href="https://github.com/TsvetanG2">
-      <img height="20" src="https://img.shields.io/github/followers/TsvetanG2?label=Github%20Followers&color=purple&logo=github&style=flat" />
+      <img height="20" src="https://img.shields.io/github/followers/TsvetanG2?label=Github%20Followers&color=010203&logo=github&style=flat" />
     </a>
     <a href="https://www.linkedin.com/in/tsvetan-gerginov212/">
-      <img height="20" src="https://img.shields.io/badge/LinkedIn%20followers-925-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+      <img height="20" src="https://img.shields.io/badge/LinkedIn%20followers-925-010203?logo=linkedin&logoColor=white&style=flat" />
     </a>
   </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D371EF&random=true&width=300&lines=A+Software+Developer;A+Power+Developer;Automation+Specialist&center=true&width=400&height=50"" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=aeb6c9&random=true&width=300&lines=A+Software+Developer;A+Power+Developer;Automation+Specialist&center=true&width=400&height=50"" alt="Typing SVG" /></a>
 </p>
 
 
 <p align="center">
   <a href="https://github.com/TsvetanG2?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TsvetanG2?color=800080&style=for-the-badge&labelColor=000000&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TsvetanG2?color=010203&style=for-the-badge&labelColor=000000&logo=star"/></a>
 </p>
 
 
