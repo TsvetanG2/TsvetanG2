@@ -1,4 +1,5 @@
 <p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
    <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=header&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
 </p>
 
@@ -82,7 +83,3 @@ Hi, welcome to my profile. I'm a Software Developer with ambition for automation
 </p>
 
 ![snake svg](https://github.com/TsvetanG2/TsvetanG2/blob/output/github-contribution-grid-snake-dark.svg)
-
-<p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
-</p>
