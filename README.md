@@ -1,6 +1,6 @@
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=:E91E63,25:F06292,50:F8BBD9,75:FCE4EC,100:FFFFF&section=footer&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=:E91E63,25:F06292,50:F8BBD9,75:FCE4EC,100:FFFFF&section=header&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:006D77,25:2EC4B6,50:48CAE4,75:90E0EF,100:CAF0F8&section=footer&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:006D77,25:2EC4B6,50:48CAE4,75:90E0EF,100:CAF0F8&section=header&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
 </p>
 
 <p align="center">
@@ -82,9 +82,9 @@ Hi, welcome to my profile. I'm a Software Developer with ambition for automation
   </a>
 </p>
 
-<p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=:E91E63,25:F06292,50:F8BBD9,75:FCE4EC,100:FFFFF&section=footer&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=:E91E63,25:F06292,50:F8BBD9,75:FCE4EC,100:FFFFF&section=header&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
-</p>
-
 ![snake svg](https://github.com/TsvetanG2/TsvetanG2/blob/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:006D77,25:2EC4B6,50:48CAE4,75:90E0EF,100:CAF0F8&section=footer&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:006D77,25:2EC4B6,50:48CAE4,75:90E0EF,100:CAF0F8&section=header&textBg=false&fontColor=000000&fontAlign=50&animation=twinkling&stroke=1" />
+</p>
