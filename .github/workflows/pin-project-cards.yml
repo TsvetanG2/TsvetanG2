@@ -17,6 +17,14 @@ jobs:
       - name: Ensure output folder
         run: mkdir -p profile
 
+      - name: Pin - mcpward
+        uses: stats-organization/github-readme-stats-action@v1.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=mcpward&theme=cobalt&hide_border=true
+          path: profile/pin-mcpward.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Pin - PDF To Excel Converter
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
@@ -25,7 +33,7 @@ jobs:
           path: profile/pin-pdf-to-excel.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Pin - Multi Tenant App
+      - name: Pin - Instagram Media Downloader
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: pin
