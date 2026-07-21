@@ -71,6 +71,9 @@ Hi, welcome to my profile. I'm a Software Developer with ambition for automation
 
 ## &nbsp;**`Latest Projects`**
 <p align="center">
+   <a href="https://github.com/TsvetanG2/mcpward">
+    <img src="./profile/pin-mcpward.svg" alt="mcpward" />
+  </a>
   <a href="https://github.com/TsvetanG2/PDF-To-Excel-Converter">
     <img src="./profile/pin-pdf-to-excel.svg" alt="PDF-To-Excel-Converter" />
   </a>
