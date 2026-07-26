@@ -23,7 +23,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=mcpward&theme=cobalt&hide_border=true
           path: profile/pin-mcpward.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Pin - PDF To Excel Converter
         uses: stats-organization/github-readme-stats-action@v1.1.0
@@ -31,7 +31,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=PDF-To-Excel-Converter&theme=cobalt&hide_border=true
           path: profile/pin-pdf-to-excel.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Pin - Instagram Media Downloader
         uses: stats-organization/github-readme-stats-action@v1.1.0
@@ -39,7 +39,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=Instagram-Media-Downloader&theme=cobalt&hide_border=true
           path: profile/pin-instagram-media-downloader.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Pin - Email Attachment Downloader
         uses: stats-organization/github-readme-stats-action@v1.1.0
@@ -47,7 +47,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=Email-Attachment-Downloader&theme=cobalt&hide_border=true
           path: profile/pin-email-attachment-downloader.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
           
       - name: Pin - Email Attachment Downloader
         uses: stats-organization/github-readme-stats-action@v1.1.0
@@ -55,7 +55,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=cognigy-ai-mcp-management-server&theme=cobalt&hide_border=true
           path: profile/pin-cognigy-ai-mcp-management-server.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Commit cards
         run: |
