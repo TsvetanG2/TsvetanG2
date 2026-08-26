@@ -11,7 +11,7 @@
       <img height="20" src="https://img.shields.io/github/followers/TsvetanG2?label=Github%20Followers&color=010203&logo=github&style=flat" />
     </a>
     <a href="https://www.linkedin.com/in/tsvetan-gerginov212/">
-      <img height="20" src="https://img.shields.io/badge/LinkedIn%20followers-925-010203?logo=linkedin&logoColor=white&style=flat" />
+      <img height="20" src="https://img.shields.io/badge/LinkedIn%20followers-968-010203?logo=linkedin&logoColor=white&style=flat" />
     </a>
   </p>
 
