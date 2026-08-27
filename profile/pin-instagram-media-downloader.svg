@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">A Selenium-based desktop tool for downloading Instagram</tspan><tspan dy="1.2em" x="25">media through an authenticated browser session. Uses a real</tspan><tspan dy="1.2em" x="25">Edge/WebDriver session for reliable, browser-like access...</tspan>
+      <tspan dy="1.2em" x="25">Download Instagram photos, videos &#38; reels along with</tspan><tspan dy="1.2em" x="25">description from your own logged-in browser.</tspan><tspan dy="1.2em" x="25">Python/Selenium desktop tool using a real Edge session for...</tspan>
     </text>
 
     <g transform="translate(30, 75)">
