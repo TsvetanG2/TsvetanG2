@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Black-box security &#38; contract testing for MCP servers.</tspan><tspan dy="1.2em" x="25">Catch rug-pulls, tool poisoning, schema drift &#38;</tspan><tspan dy="1.2em" x="25">protocol violations in CI &#8212; with JUnit &#38; SARIF...</tspan>
+      <tspan dy="1.2em" x="25">mcpward - Security &#38; contract testing for MCP servers.</tspan><tspan dy="1.2em" x="25">Catch MCP tool poisoning, rug-pulls, schema drift and</tspan><tspan dy="1.2em" x="25">protocol violations before they reach production</tspan>
     </text>
 
     <g transform="translate(30, 75)">
